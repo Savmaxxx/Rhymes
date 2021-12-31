@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rhymes</string>
+    <string name="search_rhymes">Найти рифмы</string>
+    <string name="change_the_stress">Изменить ударение</string>
+    <string name="сhoose_accent">Выберите ударение</string>
+    <string name="empty_word">Вы не ввели слово.</string>
+    <string name="not_internet">Отсутствует интернет соединение.</string>
+    <string name="rhymes_not">Рифмы не найдены. Проверьте правильность написания слова.</string>
+    <string name="ok">OK</string>
+    <string name="help">Помощь</string>
+</resources>
